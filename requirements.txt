@@ -1,6 +1,0 @@
-Flask
-faiss-cpu
-numpy
-requests
-sentence-transformers
-gunicorn
